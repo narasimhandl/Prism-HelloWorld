@@ -1,0 +1,1 @@
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\HelloWorld.Desktop\bin\Debug\HelloWorld.exe.config
