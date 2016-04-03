@@ -1,0 +1,6 @@
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\Microsoft.Practices.Prism.PubSubEvents.csproj;neutral
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\Microsoft.Practices.Prism.PubSubEvents.csproj;neutral
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.StoreApps\Microsoft.Practices.Prism.StoreApps.csproj;neutral
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.StoreApps\Microsoft.Practices.Prism.StoreApps.csproj;neutral
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\AdventureWorks.Shopper.csproj;neutral
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.UILogic\AdventureWorks.UILogic.csproj;neutral

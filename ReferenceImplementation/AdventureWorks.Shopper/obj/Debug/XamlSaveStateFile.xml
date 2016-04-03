@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\code\prismlib5 helloworld\prism-helloworld\referenceimplementation\adventureworks.shopper\obj\debug\intermediatexaml\adventureworks.shopper.exe" HashGuid="3e4fde7b-8715-881a-8a59-9ffc0b4dbcd9" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\code\prismlib5 helloworld\prism-helloworld\referenceimplementation\adventureworks.uilogic\bin\debug\adventureworks.uilogic.dll" HashGuid="b975349a-fda5-b63c-8f18-1d16cc28fcf8" />
+    <ReferenceAssembly PathName="c:\code\prismlib5 helloworld\prism-helloworld\prism.pubsubevents\bin\debug\microsoft.practices.prism.pubsubevents.dll" HashGuid="7a4ca8cb-d26e-50e3-dabd-a0032357f6a2" />
+    <ReferenceAssembly PathName="c:\code\prismlib5 helloworld\prism-helloworld\prism.storeapps\bin\debug\microsoft.practices.prism.storeapps.dll" HashGuid="ccb06b1e-5f58-3d9a-c927-87d8eb2d11dc" />
+    <ReferenceAssembly PathName="c:\code\prismlib5 helloworld\prism-helloworld\packages\unity.3.0.1304.0\lib\netcore45\microsoft.practices.unity.netcore.dll" HashGuid="90709b3f-5348-cf11-a10a-0b06da610a23" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

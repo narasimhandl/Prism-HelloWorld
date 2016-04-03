@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SLN-PC</Machine>
+    <WindowsUser>SLN</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>AdventureWorks.Shopper.CSharp</PackageIdentityName>
+    <IntermediateOutputPath>C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\AdventureWorks.Shopper.exe">
+      <PackagePath>AdventureWorks.Shopper.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.UILogic\bin\Debug\AdventureWorks.UILogic.dll">
+      <PackagePath>AdventureWorks.UILogic.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll">
+      <PackagePath>Microsoft.Practices.Prism.PubSubEvents.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.StoreApps\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll">
+      <PackagePath>Microsoft.Practices.Prism.StoreApps.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\packages\Unity.3.0.1304.0\lib\NetCore45\Microsoft.Practices.Unity.NetCore.dll">
+      <PackagePath>Microsoft.Practices.Unity.NetCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.UILogic\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\BannerLogo.png">
+      <PackagePath>Assets\BannerLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\billingAddressLogo.png">
+      <PackagePath>Assets\billingAddressLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\paymentMethodLogo.png">
+      <PackagePath>Assets\paymentMethodLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\shippingAddressLogo.png">
+      <PackagePath>Assets\shippingAddressLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\WideLogo.scale-180.png">
+      <PackagePath>Assets\WideLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\Assets\WideLogo.scale-80.png">
+      <PackagePath>Assets\WideLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\AdventureWorks.Shopper.xr.xml">
+      <PackagePath>AdventureWorks.Shopper.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Themes\AWShopperStyles.xbf">
+      <PackagePath>Themes\AWShopperStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Themes\DataTemplates.xbf">
+      <PackagePath>Themes\DataTemplates.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\BillingAddressPage.xbf">
+      <PackagePath>Views\BillingAddressPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\BillingAddressUserControl.xbf">
+      <PackagePath>Views\BillingAddressUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\CategoryPage.xbf">
+      <PackagePath>Views\CategoryPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ChangeDefaultsFlyout.xbf">
+      <PackagePath>Views\ChangeDefaultsFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\CheckoutHubPage.xbf">
+      <PackagePath>Views\CheckoutHubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\CheckoutSummaryPage.xbf">
+      <PackagePath>Views\CheckoutSummaryPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\GroupDetailPage.xbf">
+      <PackagePath>Views\GroupDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\HubPage.xbf">
+      <PackagePath>Views\HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ItemDetailPage.xbf">
+      <PackagePath>Views\ItemDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\OrderConfirmationPage.xbf">
+      <PackagePath>Views\OrderConfirmationPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\PaymentMethodPage.xbf">
+      <PackagePath>Views\PaymentMethodPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\PaymentMethodUserControl.xbf">
+      <PackagePath>Views\PaymentMethodUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SearchResultsPage.xbf">
+      <PackagePath>Views\SearchResultsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SearchUserControl.xbf">
+      <PackagePath>Views\SearchUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ShippingAddressPage.xbf">
+      <PackagePath>Views\ShippingAddressPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ShippingAddressUserControl.xbf">
+      <PackagePath>Views\ShippingAddressUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ShoppingCartPage.xbf">
+      <PackagePath>Views\ShoppingCartPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ShoppingCartTabUserControl.xbf">
+      <PackagePath>Views\ShoppingCartTabUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SignInFlyout.xbf">
+      <PackagePath>Views\SignInFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SignInUserControl.xbf">
+      <PackagePath>Views\SignInUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SignOutFlyout.xbf">
+      <PackagePath>Views\SignOutFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\TopAppBarUserControl.xbf">
+      <PackagePath>Views\TopAppBarUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

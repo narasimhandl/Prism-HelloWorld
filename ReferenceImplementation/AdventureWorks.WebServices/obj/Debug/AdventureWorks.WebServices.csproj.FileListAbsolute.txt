@@ -1,0 +1,3 @@
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.WebServices\obj\Debug\AdventureWorks.WebServices.csprojResolveAssemblyReference.cache
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.WebServices\obj\Debug\AdventureWorks.WebServices.Strings.Resources.resources
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\ReferenceImplementation\AdventureWorks.WebServices\obj\Debug\AdventureWorks.WebServices.csproj.GenerateResource.Cache

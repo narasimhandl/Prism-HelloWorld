@@ -1,0 +1,10 @@
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.xml
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.pdb
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll.CodeAnalysisLog.xml
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll.lastcodeanalysissucceeded
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.csprojResolveAssemblyReference.cache
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.Properties.Resources.resources
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.csproj.GenerateResource.Cache
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Code\PrismLib5 HelloWorld\Prism-HelloWorld\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.pdb
